@@ -17,11 +17,11 @@ body:
         applicable, add screenshots to help explain your problem.  You can reference debug logs here,
         but focus more on the narative and put large raw logs down in the separate box below.
       value: |
-        "### What did I do"
+        ### What did I do
 
-        "### What did I observe"
+        ### What did I observe
 
-        "### What did I expect"
+        ### What did I expect
     validations:
       required: true
   - type: textarea
